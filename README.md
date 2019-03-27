@@ -1,4 +1,4 @@
-# Inc-Cursor
+# Inc-Multi-Cursor-Values
 ## Overview
 Increase multi cursor values.
 Initial value is the first cursor value.
