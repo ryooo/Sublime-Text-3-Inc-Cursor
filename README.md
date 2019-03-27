@@ -18,7 +18,4 @@ inc_cursor.sublime-settings
 }
 ```
 
-### Copyright
-**Copyright (c) 2019 ryooo <ryooo.321@gmail.com>**
-
 MIT License, see http://opensource.org/licenses/MIT
