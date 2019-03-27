@@ -1,14 +1,14 @@
 # Inc-Multi-Cursor-Values
 ## Overview
-Increase multi cursor values.
-Initial value is the first cursor value.
-Cycled enumerations on the configured value support.
+Increase multi cursor values.  
+Initial value is the first cursor value.  
+Support cycled enumerations on the configured value.  
 
 ## Uses
-![Mar-27-2019 14-29-41](https://user-images.githubusercontent.com/1094339/55052612-ed6d6300-509c-11e9-9c43-050717a0f86d.gif)
+![Uses](https://github.com/ryooo/Sublime-Text-3-Inc-Multi-Cursor-Values/raw/master/uses.gif)
 
 ## Default Settings
-inc_cursor.sublime-settings
+inc_multi_cursor_values.sublime-settings
 ```json
 {
   "enums": [

@@ -1,3 +1,3 @@
 [
-    { "keys": ["super+ctrl+i"], "command": "inc_cursor"}
+    { "keys": ["super+ctrl+i"], "command": "inc_multi_cursor_values"}
 ]
