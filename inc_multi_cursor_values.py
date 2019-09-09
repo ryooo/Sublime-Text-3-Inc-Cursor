@@ -1,7 +1,5 @@
 import sublime
 import sublime_plugin
-import os
-import subprocess
 
 class IncMultiCursorValuesCommand(sublime_plugin.TextCommand):
     def run(self, edit):
